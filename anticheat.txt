@@ -1,0 +1,20 @@
+ /weather clear
+gamerule commandblockoutput false
+/clear @a bedrock
+ /clear @a end_portal_frame
+ /clear @a barrier
+ /clear @a structure_block
+ /clear @a spawn_egg
+ /clear @a mob_spawner                                            Abbriviates used , IP - impulse command blk ; CP - chain cmd blk ; RP ; repeat cmd blk
+ /clear @a end_crystal
+ /clear @a portal                                                                                                                                     .
+ /clear @a end_portal
+ /clear @a invisible_bedrock
+ /clear @a light_block
+ /clear @a elytra
+ /clear @a appleenchanted
+ kill @e[type=command_block_minecart]
+ kill @e[type=npc]
+------------------------------------------------------
+tag add <name> staff
+gamemode s @a[tag=!staff] 
