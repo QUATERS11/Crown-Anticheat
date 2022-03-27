@@ -56,7 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Notes
 
 * Kindly Credit me in the Server or Realm that you are using this anticheat on . 
-* If you have any doubt , queries , suggestions , join my [Discord]( Ihttps://discord.gg/y7uVCGSyV9)
+* If you have any doubt , queries , suggestions , join my [Discord](https://discord.gg/y7uVCGSyV9)
 
 # Commands 
  * To Add a player as staff
