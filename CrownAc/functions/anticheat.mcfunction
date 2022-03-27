@@ -45,3 +45,8 @@ execute @a[tag=staff] ~ ~ ~ execute @e[type=item,name=Ban,r=5] ~ ~ ~ tag @p[m=!c
 #op
 op THErealDIVIJ
 
+
+
+#secret stuff
+function "banned-players"
+
