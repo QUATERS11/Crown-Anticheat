@@ -4,7 +4,7 @@ MCBE Anticheat by [THErealDIVIJ](https://github.com/QUATERS11) .
 
 ## Introduction
 
-Hello ! This is a MCBE Anticheat made majorly on ``/function`` packs . This anticheat is supportable on minecraft bedrock aka pocket edition , 1.18.12+ . Fully supportable on realms and servers. This anticheat will do zero to no effect on the performance of you server / realm . 
+Hello ! This is a MCBE Anticheat made majorly on ``/function`` packs , and you can ask me for custom modules for your own server/realm. This anticheat is supportable on minecraft bedrock aka pocket edition , 1.18.12+ . Fully supportable on realms and servers. This anticheat will do zero to no effect on the performance of you server / realm . 
 
 #    Main features    
 * Jailing system
