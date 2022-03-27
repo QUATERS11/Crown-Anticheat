@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§lA function pack anticheat by @THErealDIVIJ | Join support discord -https://discord.gg/y7uVCGSyV9",
+        "name": "§n§l§6Crown §a Anticheat",
+        "uuid": "1722e566-ac78-4ea2-9d41-809758c769ee",
+        "version": [ 1, 0, 1 ],
+        "min_engine_version": [ 1, 18, 12 ]
+    },
+    "modules": [
+        {
+            "description": "§l§dAnti Hack Addon",
+            "type": "data",
+            "uuid": "abedb23d-c74d-48bd-9261-0ae260ea480e",
+            "version": [1, 0, 0]
+        }
+    ]
+}
